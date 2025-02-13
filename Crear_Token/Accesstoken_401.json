@@ -1,9 +1,10 @@
 {
 	"info": {
-		"_postman_id": "4f95714d-47f5-4c4d-ba03-e78aa20982a9",
-		"name": "Crear access token Copy",
+		"_postman_id": "a9b9495c-99ad-4d4a-99cc-9571abda9b6b",
+		"name": "Crear access token Error 401",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "34404218"
+		"_exporter_id": "29460625",
+		"_collection_link": "https://red-satellite-829132.postman.co/workspace/DICE-AUTOMATIZACION~74df9aee-0be1-41da-a339-e6abfd6cf430/collection/29460625-a9b9495c-99ad-4d4a-99cc-9571abda9b6b?action=share&source=collection_link&creator=29460625"
 	},
 	"item": [
 		{

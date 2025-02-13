@@ -1,10 +1,10 @@
 {
 	"info": {
-		"_postman_id": "a40e8f5e-160f-4220-aacf-2c3a3271f2f3",
-		"name": "Crear access token",
+		"_postman_id": "5821e995-815c-4825-9373-e0c897d001bc",
+		"name": "Crear access token Correcto",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "29460625",
-		"_collection_link": "https://red-satellite-829132.postman.co/workspace/autenticacion-fe~5174e703-3298-4e6c-9d20-12feb904233b/collection/29460625-a40e8f5e-160f-4220-aacf-2c3a3271f2f3?action=share&source=collection_link&creator=29460625"
+		"_collection_link": "https://red-satellite-829132.postman.co/workspace/DICE-AUTOMATIZACION~74df9aee-0be1-41da-a339-e6abfd6cf430/collection/29460625-5821e995-815c-4825-9373-e0c897d001bc?action=share&source=collection_link&creator=29460625"
 	},
 	"item": [
 		{
@@ -49,7 +49,7 @@
 						},
 						{
 							"key": "scope",
-							"value": "FEDERATE_DIRECTORY_KEY",
+							"value": "DICE_KEY",
 							"type": "text"
 						},
 						{
